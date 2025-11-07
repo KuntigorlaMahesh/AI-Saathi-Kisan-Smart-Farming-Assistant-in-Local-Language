@@ -1,0 +1,30 @@
+{
+  "wheat": {
+    "ideal_soil": "loamy",
+    "sowing_months": [
+      "Oct",
+      "Nov"
+    ],
+    "fertilizer": "Urea (N) 50kg/ha",
+    "notes": "Irrigate based on soil moisture; beware of rust disease in humid weather."
+  },
+  "rice": {
+    "ideal_soil": "clay",
+    "sowing_months": [
+      "Jun",
+      "Jul"
+    ],
+    "fertilizer": "DAP + Zinc as needed",
+    "notes": "Maintain standing water during early growth stages."
+  },
+  "maize": {
+    "ideal_soil": "loamy",
+    "sowing_months": [
+      "Jun",
+      "Jul",
+      "Aug"
+    ],
+    "fertilizer": "NPK balanced fertilizer",
+    "notes": "Monitor for stem borer pests."
+  }
+}
